@@ -4,7 +4,7 @@ An end-to-end batch ETL pipeline built using **PySpark and Databricks**, followi
 
 The project processes e-commerce data across customers, products, orders, payments, and deliveries, performs data cleaning and quality validation, and produces business-ready analytical datasets.
 
-##Business Problem
+## Business Problem
 
 E-commerce businesses generate data across multiple operational systems, including customers, products, orders, payments, and deliveries. This data can contain duplicates, missing values, inconsistent formats, and invalid relationships, making reliable analysis difficult.
 
