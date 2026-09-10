@@ -6,7 +6,7 @@ The project processes e-commerce data across customers, products, orders, paymen
 
 ## Architecture
 
-![ETL Architecture](docs/etl_architecture.png)
+![ETL Architecture](ecommerce_etl_architecture.png)
 
 ## Tech Stack
 
