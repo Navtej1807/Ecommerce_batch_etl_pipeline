@@ -285,8 +285,6 @@ Ecommerce_batch_etl_pipeline/
 ├── README.md
 ├── ecommerce_etl_architecture.png
 │
-├── docs/
-│
 └── notebooks/
     ├── Bronze_transformation.ipynb
     ├── Silver_transformation.ipynb
