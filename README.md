@@ -255,7 +255,7 @@ This project applies practical PySpark concepts including:
 * Date functions
 * Null handling
 * Delta table reads and writes
-* Data validation
+* Data type conversion and standardization
 * Batch processing
 
 ---
